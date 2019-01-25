@@ -7,7 +7,7 @@
 div{ border:solid 1px red; height:50px;}
 #left,#middle,#right{ float:left; width:33%;}
 #left{ height:100px;}
-
+#footer{ clear:left;}
 </style>
 </head>
 
