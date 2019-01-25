@@ -12,7 +12,7 @@ div{ border:solid 1px red; height:50px;}
 </head>
 
 <body>
-<div id="heeader">头部信息</div>
+<div id="heeader">111头部信息</div>
 <div id="left">左边栏信息</div>
 <div id="middle">中间信息</div>
 <div id="right">右边栏信息</div>
